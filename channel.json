@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "installer": {
+    "repo": "jperna7254/genmate-plugin-installer",
+    "assetPattern": "GenMate.PluginInstaller*.exe"
+  },
+  "plugin": {
+    "repo": "jperna7254/genmate-plugin-releases",
+    "hosts": {
+      "autocad": {
+        "displayName": "AutoCAD",
+        "bundleAsset": "GenMate.bundle-v{version}.zip",
+        "manifestAsset": "GenMate.bundle-v{version}.manifest.json",
+        "signatureAsset": "GenMate.bundle-v{version}.manifest.p7s"
+      }
+    }
+  }
+}
