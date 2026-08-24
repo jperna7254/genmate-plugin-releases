@@ -11,7 +11,8 @@
         "displayName": "AutoCAD",
         "bundleAsset": "GenMate.bundle-v{version}.zip",
         "manifestAsset": "GenMate.bundle-v{version}.manifest.json",
-        "signatureAsset": "GenMate.bundle-v{version}.manifest.p7s"
+        "signatureAsset": "GenMate.bundle-v{version}.manifest.p7s",
+        "minimumVersion": "3.0.0"
       }
     }
   }
