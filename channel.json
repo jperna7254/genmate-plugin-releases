@@ -12,7 +12,7 @@
         "bundleAsset": "GenMate.bundle-v{version}.zip",
         "manifestAsset": "GenMate.bundle-v{version}.manifest.json",
         "signatureAsset": "GenMate.bundle-v{version}.manifest.p7s",
-        "minimumVersion": "4.0.0"
+        "minimumVersion": "5.0.0"
       }
     }
   }
